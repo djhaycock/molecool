@@ -42,3 +42,5 @@ def calculate_angle(rA, rB, rC, degrees=False):
         return np.degrees(theta)
     else:
         return theta
+
+
